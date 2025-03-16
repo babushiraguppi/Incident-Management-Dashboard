@@ -27,4 +27,10 @@ However, the below two charts are a must:
 **Exclude all cases with final priority as P1 or P2.
 **Exclude all cases with final priority as P3 or P4 and the priority was never P1 or P2 during the lifecycle.
 
+-  Analyze the lifecycle of an incident in terms of the priority changes it goes through. For example, if the first status was P4 then it became a P3 ticket and finally   ended at P2 then P4>P3>P2 and plot it in a bar chart per incident. Color coding is as follows. P1- Red, P2- Light Red, P3- Pink, P4- Light pink. Maintain this color coding throughout. Sequence of appearance must also be followed
+
+![image](https://github.com/user-attachments/assets/bc2efc53-4486-434c-886e-b00ca7769db0)
+
+
+
 
